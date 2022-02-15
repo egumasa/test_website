@@ -123,4 +123,4 @@ compress_html:
   # ignore:
   #   envs: all
 
-theme: jekyll-theme-minimal
+theme: just-the-docs
