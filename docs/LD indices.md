@@ -2,12 +2,13 @@
 This documentation describes available lexical diversity (LD) indices in this package. Each section provides how each index is calculated and what to remember before using them for your functional or academic purposes. Each section is organized as follows:
 1. Provide a functional definition
 2. Provide a general guideline for using indices across texts of different lengths<sup>[1]</sup>
-	
-| Recommendation               | Index (Minimum Text Length (tokens))               |
-| --------------------------- | --------------------------------------------------- |
-| Use with confidence (★★★)  |[MATTR](https://github.com/LCR-ADS-Lab/taaled/blob/main/README.md#mattr) (50), [MTLD-Original](https://github.com/LCR-ADS-Lab/taaled/blob/main/README.md#mtld-original) (50)   |
-| Use with caution (★★☆)      |[HD-D](https://github.com/LCR-ADS-Lab/taaled/blob/main/README.md#hd-d) (50),  [Maas](https://github.com/LCR-ADS-Lab/taaled/blob/main/README.md#maas) (100)              |
-| Avoid  (★☆☆)|[MSTTR](https://github.com/LCR-ADS-Lab/taaled/blob/main/README.md#msttr),  [Log TTR](https://github.com/LCR-ADS-Lab/taaled/blob/main/README.md#log-ttr),  [Root TTR](https://github.com/LCR-ADS-Lab/taaled/blob/main/README.md#root-ttr),  [Simple TTR](https://github.com/LCR-ADS-Lab/taaled/blob/main/README.md#type-token-ratio-ttr)                 |
+
+| Recommendation            | Index (Minimum Text Length (tokens))                                                                                                                                                                                                                                                                                                    |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Use with confidence (★★★) | [MATTR](https://github.com/LCR-ADS-Lab/taaled/blob/main/README.md#mattr) (50), [MTLD-Original](https://github.com/LCR-ADS-Lab/taaled/blob/main/README.md#mtld-original) (50)                                                                                                                                                            |
+| Use with caution (★★☆)    | [HD-D](https://github.com/LCR-ADS-Lab/taaled/blob/main/README.md#hd-d) (50),  [Maas](https://github.com/LCR-ADS-Lab/taaled/blob/main/README.md#maas) (100)                                                                                                                                                                              |
+| Avoid  (★☆☆)              | [MSTTR](https://github.com/LCR-ADS-Lab/taaled/blob/main/README.md#msttr),  [Log TTR](https://github.com/LCR-ADS-Lab/taaled/blob/main/README.md#log-ttr),  [Root TTR](https://github.com/LCR-ADS-Lab/taaled/blob/main/README.md#root-ttr),  [Simple TTR](https://github.com/LCR-ADS-Lab/taaled/blob/main/README.md#type-token-ratio-ttr) |
+
 3. Provide information about related studies and references [**CLICK ▹LEARN MORE**]
 
 
